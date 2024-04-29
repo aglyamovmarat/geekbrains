@@ -25,7 +25,7 @@
 <img src="picture2.jpg" border="5px"/>
 
 ## Ссылки
-
+ 1) https://github.com/aglyamovmarat/geekbrains
 ## Работа с таблицами
 
 ## Цитаты
