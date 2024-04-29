@@ -26,6 +26,9 @@
 
 ## Ссылки
  1) https://github.com/aglyamovmarat/geekbrains
+ 2) https://github.com/aglyamovmarat/geekbrains
+ 3) https://github.com/aglyamovmarat/geekbrains
+
 ## Работа с таблицами
 
 ## Цитаты
